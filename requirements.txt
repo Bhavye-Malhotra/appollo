@@ -14,4 +14,4 @@ google-api-python-client
 numpy==1.24.4
 pandas 
 rich-tools
-GCTF{push1ng_s3cr3t_t0_g1thub_n0t_s4f3}
+
